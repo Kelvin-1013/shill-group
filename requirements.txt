@@ -1,0 +1,12 @@
+asyncstdlib
+black
+datetime
+jsonschema
+pylint
+pyyaml
+telethon
+yamllint
+tkinter
+pillow
+pymongo
+dnspython
